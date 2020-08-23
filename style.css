@@ -1,0 +1,49 @@
+/* style.css */
+body {
+  background: rgb(255,220,160);
+  color: black;
+  font-size: 30px;
+  font-family: Helvetica;
+}
+
+#banner {
+  text-align: center;
+  background-image: url("https://bit.ly/3aslC1T");
+  background-size: cover;
+  padding: 100px 0;
+  text-shadow: 4px 4px 2px #00BFA5;
+  border-style: solid;
+  border-color: red;
+}
+
+#banner h1 {
+  color: orange;
+  font-size: 50px;
+}
+
+#banner p, a {
+  color: orange;
+  font-size: 30px;
+}
+
+.col-xs-12 col-sm-6 col-md-3 { 
+  color: white;
+ }
+img {
+  border-style: solid;
+  border-color: white;
+  margin: 5px;
+}
+
+
+
+#footer {
+  padding: 30px;
+  background: rgb(40, 40, 1);
+  color: lightgrey;
+  text-align: center;
+  width: 100%;
+
+}
+
+

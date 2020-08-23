@@ -1,0 +1,27 @@
+.banner {
+	background-image: linear-gradient(rgba(0,0,0,0.8) 0%, 
+					  rgba(0,0,0,0.2) 50%), 
+					  url(https://i.ytimg.com/vi/qVIwHGI2e1U/maxresdefault.jpg);
+	color: white;
+	height: 95vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+}
+
+.banner h1 {
+	font-size: 75px;
+	font-weight: bold;
+
+}
+
+.banner p {
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.banner a { 
+	padding: 15px; 
+
+}

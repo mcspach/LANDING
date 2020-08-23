@@ -1,0 +1,29 @@
+.btn-medium {
+	color: lightgrey;
+	border: 1px solid;
+	border-color: lightgrey;
+	border-radius: 20px;
+	padding: 12px;
+	font-weight: light;
+	opacity: 0.75;
+}
+
+.btn-medium:hover {
+	opacity: 0.9;
+	text-decoration: none;
+
+}
+
+.btn-treehouse {
+	border: 2px solid;
+	color: #1DB954;
+	border color: #1DB954;
+	border-radius: 29px;
+	padding: 10px;
+	opacity: 0.85;
+}
+
+.btn-treehouse:hover {
+	opacity: 1;
+
+}

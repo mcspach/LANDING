@@ -1,0 +1,33 @@
+.tabs {
+	background-color: grey;
+	color: white;
+	padding: 10px 10px 0 10px;
+	display: flex;
+	align-items: space-around;
+}
+
+.tabs a {
+	color: white;
+}
+
+.tabs a:hover {
+	color: lightgreen;
+	text-decoration: none;
+}
+
+.tabs h3 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.tabs p {
+	font-weight: lighter;
+}
+
+.tabs-item {
+	flex: 1 0 auto;
+	text-align: center;
+	background-color: black;
+	margin: 5px 5px 0 5px;
+	border-radius: 10px 10px 0 0;
+}
